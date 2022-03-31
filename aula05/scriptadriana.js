@@ -12,15 +12,11 @@ function Numeros() {
         let info = document.createElement('p');
           info.textContent = 'O Debito Técnico é um conceito relacionado com a falta de padronização em um código';
           document.body.appendChild(info);
-      }
-      const botao= document.querySelectorAll('button');
-        for(var y= 0; y < botao.length ; y++) {
-        botao[y].addEventListener('click');
         }
     function Sonar() {
         window.open("https://www.sonarqube.org/")
            }
-       function Jenkins() {
+     function Jenkins() {
         window.open("https://www.jenkins.io/")
           }
             

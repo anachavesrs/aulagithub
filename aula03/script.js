@@ -1,5 +1,5 @@
  
-  function criarParagrafo(params) {
+  function criarParagrafo() {
     let para = document.createElement('P');
     para.textContent = 'Você criou o botão!';
     document.body.appendChild(para);

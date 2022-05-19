@@ -1,0 +1,11 @@
+[
+    {
+        "nome":"Shaun Nader DVM",
+        "idade":38,
+        "email":"Holden.Gerlach60@gmail.com",
+        "id":"1",
+        "ativextra":[{
+            "name":"name 1",
+            "turno":"turno 1",
+            "id":"1",
+            "alunoId":"1"},{"name":"name 4","turno":"turno 4","id":"4","alunoId":"1"},{"name":"name 7","turno":"turno 7","id":"7","alunoId":"1"}]},{"nome":"Ira Abshire","idade":81,"email":"Addie86@gmail.com","id":"2","ativextra":[{"name":"name 2","turno":"turno 2","id":"2","alunoId":"2"},{"name":"name 5","turno":"turno 5","id":"5","alunoId":"2"}]},{"nome":"Candace Reichert","idade":54,"email":"Skylar14@gmail.com","id":"3","ativextra":[{"name":"name 3","turno":"turno 3","id":"3","alunoId":"3"},{"name":"name 6","turno":"turno 6","id":"6","alunoId":"3"}]}]

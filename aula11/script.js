@@ -24,4 +24,16 @@ console.log(typeof objs);
  const jsonData = JSON.stringify(objs); 
  console.log (jsonData);
  console.log(typeof jsonData);
+
+ const objson = JSON.parse(jsonData);
+
+ console.log (objson);
+ console.log(typeof objson);
+
+ objson.map((aluno) => {
+     console.log(aluno.Nome);
+     console.log(aluno.Idade);
+     console.log(aluno.Email);
+ })
+
  
